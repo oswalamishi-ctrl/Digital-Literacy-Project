@@ -1,4 +1,4 @@
- General Safety Tips
+ General Safety Tips:
 
 ✔️ Use strong passwords (mix of letters, numbers, symbols) and don’t reuse them
 
@@ -13,7 +13,7 @@
 ✔️ Think before clicking links in emails, SMS, or social media messages
 
 
-Financial / UPI Safety Tips
+Financial / UPI Safety Tips:
 
 ✔️ Verify the receiver’s name before making any UPI payment
 
@@ -24,14 +24,14 @@ Financial / UPI Safety Tips
 ✔️ Use official banking apps only and keep them updated
 
 
-Device & App Safety
+Device & App Safety:
 
 ✔️ Install apps only from trusted sources like Google Play Store or App Store
 
 ✔️ Regularly update your phone and apps to fix security issues
 
 
- If Something Goes Wrong
+ If Something Goes Wrong:
 
 ✔️ Immediately report fraud at the National Cyber Crime Portal: cybercrime.gov.in
 
